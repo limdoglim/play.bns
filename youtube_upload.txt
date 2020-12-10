@@ -1,0 +1,17 @@
+업로드
+
+Request URL: https://studio.youtube.com/youtubei/v1/creator/get_creator_videos
+Request URL: https://studio.youtube.com/youtubei/v1/crowdsourcing/get_video_translations
+Request URL: https://studio.youtube.com/youtubei/v1/creator/get_creator_endscreens
+Request URL: https://studio.youtube.com/youtubei/v1/creator/list_creator_videos
+
+
+
+스트리밍
+
+Request URL: https://studio.youtube.com/youtubei/v1/live/start_broadcast
+Request URL: https://studio.youtube.com/youtubei/v1/live/get_broadcast
+Request URL: https://studio.youtube.com/youtubei/v1/live/get_broadcast_status
+Request URL: https://studio.youtube.com/youtubei/v1/live_chat/get_live_chat
+Request URL: https://studio.youtube.com/youtubei/v1/live/get_live_dashboard
+
